@@ -3,7 +3,7 @@
     "type": "plugin",
     "name": "GameCategoriesLite",
     "author": "Bubbletune, Codestation, ticky",
-    "description": "Quality of life plugin that creates custom categories for your PSP Games\n, homebrew, PSX Games",
+    "description": "Quality of life plugin that creates custom categories for your PSP Games,\nhomebrew, PSX Games",
     "link": "https://github.com/ticky/game-categories-lite",
     "version": "1.7",
     "download": {
